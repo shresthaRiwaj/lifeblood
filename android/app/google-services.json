@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "633372699208",
+    "project_id": "blooddonation-704",
+    "storage_bucket": "blooddonation-704.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:633372699208:android:6f6286e2a0c811191f867d",
+        "android_client_info": {
+          "package_name": "com.example.lifeblood"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDa9N0flIXEfJQnWHBPiZ2lz2WJnWi5GE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
